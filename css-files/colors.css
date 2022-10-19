@@ -1,0 +1,18 @@
+
+:root {
+    --colorColorPrimary: #092c4c;    
+    --colorColorSecondary: #f2994a;    
+    --colorColorInfo: #2f80ed;    
+    --colorColorSucces: #27ae60;    
+    --colorColorWarning: #e2b93b;    
+    --colorColorError: #eb5757;    
+    --colorColorBlack1: #000000;    
+    --colorColorBlack2: #1d1d1d;    
+    --colorColorBlack3: #282828;    
+    --colorColorGrey1: #333333;    
+    --colorColorGrey2: #4f4f4f;    
+    --colorColorGrey3: #828282;    
+    --colorColorGrey4: #bdbdbd;    
+    --colorColorGrey5: #e0e0e0;    
+    --colorColorWhite: #ffffff;    
+}
